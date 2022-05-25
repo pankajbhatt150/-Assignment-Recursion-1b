@@ -1,0 +1,9 @@
+
+int stringToNumber(char input[]) {
+        
+   int  intValue;
+     	intValue=atoi(input); //atoi() — Convert Character String to Integer
+	
+    
+    	return intValue;
+}
